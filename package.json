@@ -45,7 +45,7 @@
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^1.0.8",
     "dot": "^1.1.1",
-    "fs-extra": "^1.0.0",
+    "fs-extra": "^11.3.1",
     "karma-chai": "^0.1.0",
     "marked": "^0.3.6",
     "mz": "^2.6.0",
